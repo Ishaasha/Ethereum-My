@@ -1,0 +1,27 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ethereum.my" resolutions="1x" timestamp="1456635847497">
+  <folder name="css">
+    <file name="site_global.css" crc="92775026"/>
+    <file name="master_a-master.css" crc="112647168" ref="index"/>
+    <file name="index.css" crc="3806650964" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4190794036" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="phone>index:index"/>
+    <file name="museredirect.js" crc="3985760531" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="3930707678" ref="phone>index"/>
+    <file name="ethereum-icon_black-u369.png" crc="338338943" ref="phone>index"/>
+    <file name="ethereum-icon_black-u159.png" crc="4064077333" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="185482782" ref="phone>index"/>
+      <file name="index.css" crc="4166119573" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="507366768" seo="true" mt="1456635834919" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3815410147" seo="true" mt="1456633783564" redirect="true"/>
+</manifest>
