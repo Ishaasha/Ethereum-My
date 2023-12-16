@@ -453,6 +453,7 @@ body
 	position: relative;
 	min-width: 960px;
 	padding-bottom: 35px;
+	height:100%;
 }
 
 .verticalspacer
