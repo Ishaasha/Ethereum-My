@@ -446,6 +446,7 @@
 .html
 {
 	background-color: #ECF0F1;
+	height:100%;
 }
 
 body
@@ -453,7 +454,6 @@ body
 	position: relative;
 	min-width: 960px;
 	padding-bottom: 35px;
-	height:100%;
 }
 
 .verticalspacer
