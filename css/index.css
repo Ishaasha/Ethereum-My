@@ -495,8 +495,8 @@ div{
 .c1{
   display: block;
   text-align: center;
-  padding: 20px 0;
   background-color: #ffffff;
+  
 }
 
 .c2{
@@ -508,6 +508,7 @@ div{
   transform: scale(1);
   transition: 400ms;
   overflow:hidden;
+	padding: 10px;
   
 }
 
