@@ -464,6 +464,11 @@ h1{
   text-align: center;
   padding: 20px 0;
 }
+
+h2{
+	font-size: 20px;
+}
+
 .canvasbox {
   height: 700px;
   width: 100%;
@@ -498,7 +503,7 @@ div{
   text-align: center;
   padding: 120px 0;
   margin: 0px;
-  background-color: #8fbbd9;
+  background-color: #ffffff;
   
 }
 
@@ -508,7 +513,7 @@ div{
   width: 50%;
   text-align: center;
   padding: 120px 0;
-  background-color: #7ed9a7;  
+  background-color: #ffffff;  
 }
 
 .c4{
