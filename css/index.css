@@ -487,7 +487,8 @@ div{
 .c1{
   display: block;
   text-align: center;
-  background-color: #fff;
+  padding: 20px 0;
+  background-color: #ffffff;
 }
 
 .c2{
