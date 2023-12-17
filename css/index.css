@@ -470,8 +470,7 @@ h1{
   height: auto;
   padding: 0;
   width:100%;
-  position:relative;
-  margin: 0px auto;
+  margin-top: 500px;
 }
 
 div{
