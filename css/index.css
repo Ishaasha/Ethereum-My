@@ -466,9 +466,10 @@ h1{
 }
 
 .container{
-  width: 99vw;
+  position: relative;
   margin: 30px auto;
   padding: 0;
+	
 }
 
 div{
