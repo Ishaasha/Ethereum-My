@@ -466,8 +466,7 @@ h1{
 }
 
 .container{
-  position: relative;
-  margin: 30px auto;
+  position: absolute;
   padding: 0;
 	
 }
