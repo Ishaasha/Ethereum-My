@@ -496,6 +496,7 @@ div{
   display: block;
   text-align: center;
   background-color: #ffffff;
+  padding-bottom: 80px;
   
 }
 
@@ -524,6 +525,13 @@ div{
   width: 50%;
   text-align: center;
   background-color: #ffffff;  
+}
+
+.c3:hover img {
+  -ms-transform: scale(1.008); /* IE 9 */
+  -webkit-transform: scale(1.008); /* Safari 3-8 */
+  transform: scale(1.008);
+  transition: 400ms;
 }
 
 .c4{
