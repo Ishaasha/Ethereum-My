@@ -485,10 +485,10 @@ div{
 }
 
 .c1{
-  display: inline-block;
+  display: block;
   padding: 0;
   margin: 0px auto;
-  width: 100%;
+  
   text-align: center;
   background-color: #000;
 }
