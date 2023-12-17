@@ -512,9 +512,9 @@ div{
 }
 
 .c2:hover img {
-  -ms-transform: scale(0.2); /* IE 9 */
-  -webkit-transform: scale(0.2); /* Safari 3-8 */
-  transform: scale(0.2);
+  -ms-transform: scale(1.001); /* IE 9 */
+  -webkit-transform: scale(1.001); /* Safari 3-8 */
+  transform: scale(1.001);
   transition: 400ms;
 }
 
