@@ -467,21 +467,16 @@ h1{
 .canvasbox {
   height: 500px;
   width: 100%;
-  background: transparent;
   position: relative;
   display: block;
 }
+
 .container{
   display: block;
   height: auto;
   padding: 0;
   margin: auto;
   position:relative;
-}
-.container::after{
-  content:"";
-  display:block;
-  clear:both;
 }
 
 div{
