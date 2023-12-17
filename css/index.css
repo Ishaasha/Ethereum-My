@@ -505,6 +505,7 @@ div{
   width: 50%;
   text-align: center;
   margin: 0px;
+	padding: 0px;
   background-color: #ffffff;
   
 }
@@ -514,6 +515,8 @@ div{
   float: left;
   width: 50%;
   text-align: center;
+	margin: 0px;
+	padding: 0px;
   background-color: #ffffff;  
 }
 
@@ -523,7 +526,7 @@ div{
   width: 33.33%;
   text-align: center;
   padding: 120px 0;
-  background-color: rgb(230, 150, 134);  
+  background-color: rgb(230, 150, 134);
 }
 
 .c5{
