@@ -505,13 +505,17 @@ div{
   width: 50%;
   text-align: center;
   background-color: #ffffff;
+  transform: scale(1);
+  transition: 400ms;
+  overflow:hidden;
   
 }
 
 .c2:hover img {
   -ms-transform: scale(1.5); /* IE 9 */
   -webkit-transform: scale(1.5); /* Safari 3-8 */
-  transform: scale(1.5); 
+  transform: scale(1.5);
+  transition: 400ms;
 }
 
 .c3{
