@@ -466,7 +466,8 @@ h1{
 }
 
 .container{
-  position: absolute;
+  display: block;
+  height: auto;
   padding: 0;
 	
 }
