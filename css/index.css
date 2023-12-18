@@ -546,7 +546,7 @@ div{
 .c4{
   display: inline-block;
   float: left;
-  width: 33.33%;
+  width: 28%;
   text-align: center;
   border-radius: 20px;
   padding:60px 0;
@@ -563,7 +563,7 @@ div{
 .c5{
   display: inline-block;
   float: left;
-  width: 33.33%;
+  width: 28%;
   text-align: center;
   padding: 60px 0;
   margin:0 20px;
@@ -573,7 +573,7 @@ div{
 .c6{
   display: inline-block;
   float: left;
-  width: 33.33%;
+  width: 28%;
   text-align: center;
   padding: 60px 0;
   background-color: #EFEFEF;  
