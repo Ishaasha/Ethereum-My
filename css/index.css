@@ -603,6 +603,7 @@ div{
 .button {
   display: inline-block;
   cursor: pointer;
+  padding: 5px 10px;
   text-align: center;
   text-decoration: none;
   outline: none;
