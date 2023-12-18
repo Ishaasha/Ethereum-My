@@ -565,8 +565,9 @@ div{
   float: left;
   width: 33.33%;
   text-align: center;
-  padding: 120px 0;
-  background-color: rgb(230, 203, 118);  
+  padding: 60px 0;
+  margin:0 20px;
+  background-color: #EFEFEF;  
 }
 
 .c6{
@@ -574,8 +575,8 @@ div{
   float: left;
   width: 33.33%;
   text-align: center;
-  padding: 120px 0;
-  background-color: rgb(173, 170, 230);  
+  padding: 60px 0;
+  background-color: #EFEFEF;  
 }
 
 
