@@ -104,13 +104,14 @@ a
 
 a:link
 {
+	color: #272727;
 	font-weight: normal;
 	text-decoration: none;
 }
 
 a:visited
 {
-
+	color: #272727;
 	text-decoration: none;
 }
 
