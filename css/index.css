@@ -509,6 +509,12 @@ div{
   
 }
 
+.col1{
+  display:inline-block;
+  text-align: center;
+  background-color: #EFEFEF;
+}
+
 .c2{
   display: inline-block;
   float: left;
