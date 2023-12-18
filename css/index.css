@@ -595,6 +595,7 @@ div{
 }
 
 #center{
+	margin:auto;
 	justify-content:space-between;
 }
 
