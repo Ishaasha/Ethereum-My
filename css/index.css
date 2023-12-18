@@ -602,6 +602,8 @@ div{
 
 .button {
   display: inline-block;
+  margin-top: 70px;
+  margin-bottom: 0px;
   cursor: pointer;
   padding: 5px 10px;
   text-align: center;
@@ -611,6 +613,7 @@ div{
   background-color: #272727;
   border: none;
   border-radius: 15px;
+	
 }
 
 .button:hover {background-color: #5b5b5b}
