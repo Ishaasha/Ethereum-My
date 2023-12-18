@@ -510,7 +510,7 @@ div{
 }
 
 .c1{
-  display:block;
+  display:inline-block;
   text-align: center;
   background-color: #FFFFFF;
   padding-bottom: 30px;
