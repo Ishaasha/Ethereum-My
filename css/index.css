@@ -504,8 +504,9 @@ div{
 .c1{
   display: block;
   text-align: center;
-  background-color: #ffffff;
-  padding-bottom: 200px;
+  background-color: #EFEFEF;
+  padding-bottom: 100px;
+  margin-bottom: 100px;
   
 }
 
@@ -554,9 +555,9 @@ div{
 }
 
 .c4:hover img {
-  -ms-transform: scale(1.006); /* IE 9 */
-  -webkit-transform: scale(1.006); /* Safari 3-8 */
-  transform: scale(1.006);
+  -ms-transform: scale(1.008); /* IE 9 */
+  -webkit-transform: scale(1.008); /* Safari 3-8 */
+  transform: scale(1.008);
   transition: 400ms;
 }
 
