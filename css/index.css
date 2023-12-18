@@ -504,7 +504,9 @@ div{
 .c1{
   display: block;
   text-align: center;
-  background-color: #ffffff;
+  background-color: #EFEFEF;
+  padding-bottom: 100px;
+  margin-bottom: 100px;
   
 }
 
@@ -590,25 +592,4 @@ div{
 {
 	margin-bottom: -15px;
 	min-height: 1px;
-}
-
-.button {
-  display: inline-block;
-  padding: 15px 25px;
-  font-size: 24px;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  outline: none;
-  color: #fff;
-  background-color: #272727;
-  border: none;
-  border-radius: 15px;
-}
-
-.button:hover {background-color: #5b5b5b}
-
-.button:active {
-  background-color: #5b5b5b;
-  transform: translateY(4px);
 }
