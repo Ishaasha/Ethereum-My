@@ -505,7 +505,7 @@ div{
   display: block;
   text-align: center;
   background-color: #FFFFFF;
-  padding-bottom: 70px;
+  padding-bottom: 30px;
   
 }
 
@@ -606,13 +606,16 @@ div{
   margin-bottom: 0px;
   cursor: pointer;
   padding: 5px 10px;
+  font-size: 14px;
+  font-family: roboto, sans-serif;
+  font-weight: 400;
   text-align: center;
   text-decoration: none;
   outline: none;
   color: #fff;
   background-color: #272727;
   border: none;
-  border-radius: 15px;
+  border-radius: 18px;
 	
 }
 
