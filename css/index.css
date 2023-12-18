@@ -603,9 +603,6 @@ div{
   transition: 400ms;
 }
 
-.col2 {
-	padding:0;
-}
 
 .col3 {
 	display: flex;
