@@ -505,7 +505,7 @@ div{
   display: block;
   text-align: center;
   background-color: #FFFFFF;
-  margin-bottom: 100px;
+  padding-bottom: 70px;
   
 }
 
@@ -602,8 +602,6 @@ div{
 
 .button {
   display: inline-block;
-  margin-top:80px;
-  font-size: 10px;
   cursor: pointer;
   text-align: center;
   text-decoration: none;
