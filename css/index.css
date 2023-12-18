@@ -609,6 +609,14 @@ div{
         justify-content: space-between;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
 .button {
   margin-top: 70px;
   margin-bottom: 0px;
