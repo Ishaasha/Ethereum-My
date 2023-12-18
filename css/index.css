@@ -472,6 +472,13 @@ h2{
 	font-weight: 700;
 }
 
+h3{
+	font-size: 20px;
+	text-align: center;
+	font-family: roboto, sans-serif;
+	font-weight: 600;
+}
+
 .canvasbox {
   height: 700px;
   width: 100%;
