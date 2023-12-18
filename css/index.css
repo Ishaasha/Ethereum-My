@@ -600,7 +600,7 @@ div{
   transition: 400ms;
 }
 
-.3col {
+.col3 {
 	display: flex;
         justify-content: space-between;
 }
