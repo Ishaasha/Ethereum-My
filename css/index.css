@@ -605,6 +605,7 @@ h3{
 
 #rcorner {
 	height:inherit;
+	width:80%;
 	padding:20px;
 	background-color: #EFEFEF;
 	border-radius: 20px;
