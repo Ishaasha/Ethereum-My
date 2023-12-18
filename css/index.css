@@ -510,17 +510,11 @@ div{
 }
 
 .c1{
-  display:inline-block;
+  display:block;
   text-align: center;
   background-color: #FFFFFF;
   padding-bottom: 30px;
   
-}
-
-.col1{
-  display:inline-block;
-  text-align: center;
-  background-color: #EFEFEF;
 }
 
 .c2{
