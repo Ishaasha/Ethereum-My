@@ -609,11 +609,9 @@ div{
         justify-content: space-between;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+#cl2 {
+	background-color: #EFEFEF;
+	border-radius: 20px;
 }
 
 
