@@ -604,7 +604,10 @@ h3{
         justify-content: space-between;
 }
 
-.col02 {
+#rcorner {
+	padding:20px;
+	width:auto;
+	height:auto;
 	background-color: #EFEFEF;
 	border-radius: 20px;
 }
