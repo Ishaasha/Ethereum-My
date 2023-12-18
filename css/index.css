@@ -539,8 +539,9 @@ div{
   float: left;
   width: 33.33%;
   text-align: center;
-  padding: 120px 0;
-  background-color: rgb(230, 150, 134);
+  border-radius: 20px;
+  padding:10px 0;
+  background-color: #EFEFEF;
 }
 
 .c5{
