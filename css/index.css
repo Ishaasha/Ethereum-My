@@ -619,7 +619,7 @@ div{
 	
 }
 
-.button:hover {background-color: #5b5b5b}
+.button:hover {background-color: #5b5b5b;}
 
 .button:active {
   background-color: #5b5b5b;
