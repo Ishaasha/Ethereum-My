@@ -566,7 +566,6 @@ div{
   width: 28%;
   text-align: center;
   padding: 60px 0;
-  margin:0 20px;
   border-radius: 20px;
   background-color: #EFEFEF;  
 }
@@ -579,6 +578,10 @@ div{
   padding: 60px 0;
   border-radius: 20px;
   background-color: #EFEFEF;  
+}
+
+.center{
+	margin: auto;
 }
 
 
