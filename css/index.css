@@ -594,7 +594,7 @@ div{
   transition: 400ms;
 }
 
-#3col{
+.3col{
 	display: flex;
         justify-content: space-between;
 }
