@@ -553,6 +553,13 @@ div{
   background-color: #EFEFEF;
 }
 
+.c4:hover img {
+  -ms-transform: scale(1.006); /* IE 9 */
+  -webkit-transform: scale(1.006); /* Safari 3-8 */
+  transform: scale(1.006);
+  transition: 400ms;
+}
+
 .c5{
   display: inline-block;
   float: left;
