@@ -594,7 +594,7 @@ div{
   transition: 400ms;
 }
 
-#center{
+#colcenter{
 	display:flex;
 	margin:auto;
 	justify-content:space-between;
