@@ -724,29 +724,32 @@ h4{
 .c14{
   display: inline-block;
   float: left;
-  width: 33.33%;
+  width: 25%;
   border-radius: 20px;
   padding:60px 0;
   color: #FFFFFF;
+  margin-right:10%;
 }
 
 
 .c15{
   display: inline-block;
   float: left;
-  width: 33.33%;
+  width: 25%;
   padding: 60px 0;
   border-radius: 20px;
   color: #FFFFFF;
+  margin-right:10%;
 }
 
 .c16{
   display: inline-block;
   float: left;
-  width: 33.33%;
+  width: 25%;
   padding: 60px 0;
   border-radius: 20px;
   color: #FFFFFF;
+  
 }
 
 
