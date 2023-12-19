@@ -724,7 +724,7 @@ h4{
 .c14{
   display: inline-block;
   float: left;
-  width: 25%;
+  width: 50%;
   border-radius: 20px;
   padding:20px 0;
   color: #FFFFFF;
@@ -735,21 +735,10 @@ h4{
 .c15{
   display: inline-block;
   float: left;
-  width: 25%;
+  width: 50%;
   padding: 20px 0;
   border-radius: 20px;
   color: #FFFFFF;
-  margin-right:10%;
-}
-
-.c16{
-  display: inline-block;
-  float: left;
-  width: 25%;
-  padding: 20px 0;
-  border-radius: 20px;
-  color: #FFFFFF;
-  
 }
 
 
@@ -833,23 +822,13 @@ background-color: #5b5b5b;
 }
 
 #u001 {
-	padding-right:50px;
 	font-size: 14px;
 	text-align: left;
 	font-family: roboto, sans-serif;
 	font-weight: 500;
 }
 
-#u002 {
-	
-	padding-right: 50px;
-	font-size: 14px;
-	text-align: center;
-	font-family: roboto, sans-serif;
-	font-weight: 500;
-}
-
-#u003 { 
+#u002 { 
 	font-size: 14px;
 	text-align: right;
 	font-family: roboto, sans-serif;
