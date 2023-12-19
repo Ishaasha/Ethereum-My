@@ -745,6 +745,33 @@ background-color: #5b5b5b;
   transform: translateY(4px);
 }
 
+.button2 {
+  margin: 15px 0;
+  cursor: pointer;
+  padding: 5px 15px;
+  font-size: 10px;
+  font-family: roboto, sans-serif;
+  font-weight: 300;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #272727;
+  border: none;
+  border-radius: 18px;
+	
+}
+
+.button2:hover {
+background-color: #5b5b5b;
+}
+
+.button2:active {
+  background-color: #5b5b5b;
+  transform: translateY(4px);
+}
+
+
 
 .verticalspacer
 {
