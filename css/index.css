@@ -832,8 +832,32 @@ background-color: #5b5b5b;
   transform: translateY(4px);
 }
 
+#u001 {
+	z-index: 13;
+	width: 395px;
+	min-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+	float:left;
+}
 
+u002 {
+	z-index: 5;
+	width: 505px;
+	min-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+	left: 455px;
+}
 
+#u003 { 
+	z-index: 5;
+	width: 505px;
+	min-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+	left: 455px;
+}
 .verticalspacer
 {
 	margin-bottom: -15px;
