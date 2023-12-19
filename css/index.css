@@ -610,12 +610,6 @@ h3{
   transition: 400ms;
 }
 
-#box1 {
-	height:inherit;
-	margin-bottom:100px;
-	overflow:hidden;
-}
-
 #rcorner {
 
 	height:inherit;
@@ -624,6 +618,7 @@ h3{
 	background-color: #EFEFEF;
 	border-radius: 20px;
 	overflow:hidden;
+	margin-top:50px;
 	margin:auto;
 }
 
