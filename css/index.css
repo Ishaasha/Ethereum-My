@@ -834,7 +834,7 @@ background-color: #5b5b5b;
 
 #u001 {
 	z-index: 13;
-	width: 300px;
+	width: 150;
 	min-height: 22px;
 	position: relative;
 	margin-right: -10000px;
@@ -846,8 +846,8 @@ background-color: #5b5b5b;
 }
 
 u002 {
-	z-index: 5;
-	width: 505px;
+	
+	width: 150px;
 	min-height: 22px;
 	vertical-align: top;
 	position: relative;
@@ -861,13 +861,13 @@ u002 {
 
 #u003 { 
 	z-index: 5;
-	width: 505px;
+	width: 150px;
 	min-height: 22px;
 	position: relative;
 	margin-right: -10000px;
 	left: 455px;
 	font-size: 14px;
-	text-align: center;
+	text-align: right;
 	font-family: roboto, sans-serif;
 	font-weight: 500;
 }
