@@ -611,7 +611,9 @@ h3{
 }
 
 #box1 {
-	margin-bottom:50px;
+	height:inherit;
+	margin-bottom:100px;
+	overflow:hidden;
 }
 
 #rcorner {
