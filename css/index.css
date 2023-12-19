@@ -531,6 +531,15 @@ h3{
   transition: 400ms;
 }
 
+.c02{
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+  margin:auto;
+  overflow:hidden;
+ 
+}
+
 .c3{
   display: inline-block;
   float: left;
@@ -600,7 +609,9 @@ h3{
   transition: 400ms;
 }
 
-
+#divmargin {
+	margin-bottom:50px;
+}
 #rcorner {
 
 	height:inherit;
