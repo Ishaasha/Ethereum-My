@@ -533,6 +533,7 @@ h3{
 
 .c02{
   display: inline-block;
+  float:left;
   width: 50%;
   text-align: center;
   margin:auto;
