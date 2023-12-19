@@ -830,7 +830,7 @@ background-color: #5b5b5b;
 }
 
 #u001 {
-	width: 200px;
+	padding-left:100px;
 	font-size: 14px;
 	text-align: left;
 	font-family: roboto, sans-serif;
@@ -839,7 +839,7 @@ background-color: #5b5b5b;
 
 #u002 {
 	
-	width: 200px;
+	padding-left: 100px;
 	font-size: 14px;
 	text-align: center;
 	font-family: roboto, sans-serif;
@@ -847,8 +847,6 @@ background-color: #5b5b5b;
 }
 
 #u003 { 
-
-	width: 200px;
 	font-size: 14px;
 	text-align: right;
 	font-family: roboto, sans-serif;
