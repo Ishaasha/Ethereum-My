@@ -627,6 +627,7 @@ h3{
   padding:60px 0;
   background-color: #EFEFEF;
   margin-right:4%;
+  overflow:hidden;
 }
 
 .c8:hover img {
@@ -645,6 +646,7 @@ h3{
   border-radius: 20px;
   background-color: #EFEFEF;  
   margin-right:4%;
+  overflow:hidden;
 }
 
 .c9:hover img {
@@ -663,6 +665,7 @@ h3{
   border-radius: 20px;
   background-color: #EFEFEF;  
   margin-right:4%;
+  overflow:hidden;
 }
 
 .c10:hover img {
@@ -680,6 +683,7 @@ h3{
   padding: 60px 0;
   border-radius: 20px;
   background-color: #EFEFEF;  
+  overflow:hidden;
 }
 
 .c11:hover img {
