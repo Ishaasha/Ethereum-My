@@ -834,20 +834,29 @@ background-color: #5b5b5b;
 
 #u001 {
 	z-index: 13;
-	width: 395px;
+	width: 300px;
 	min-height: 22px;
 	position: relative;
 	margin-right: -10000px;
-	float:left;
+	text-align:left;
+	font-size: 14px;
+	text-align: center;
+	font-family: roboto, sans-serif;
+	font-weight: 500;
 }
 
 u002 {
 	z-index: 5;
 	width: 505px;
 	min-height: 22px;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	left: 455px;
+	left: 381px;
+	font-size: 14px;
+	text-align: center;
+	font-family: roboto, sans-serif;
+	font-weight: 500;
 }
 
 #u003 { 
@@ -857,6 +866,10 @@ u002 {
 	position: relative;
 	margin-right: -10000px;
 	left: 455px;
+	font-size: 14px;
+	text-align: center;
+	font-family: roboto, sans-serif;
+	font-weight: 500;
 }
 .verticalspacer
 {
