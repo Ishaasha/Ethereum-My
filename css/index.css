@@ -618,7 +618,6 @@ h3{
 }
 
 #boxcenter{
-  display: inline-block;
   height:inherit;
   padding: 10px 0;
   margin: auto;
@@ -638,6 +637,11 @@ h3{
 	margin:auto;
 }
 
+#bttmargn {
+	height:inherit;
+	width: auto;
+	margin-bottom:100px;
+}
 
 .button {
   margin: 15px 0;
