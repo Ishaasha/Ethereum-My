@@ -845,7 +845,7 @@ background-color: #5b5b5b;
 	font-weight: 500;
 }
 
-u002 {
+#u002 {
 	
 	width: 150px;
 	min-height: 22px;
@@ -860,12 +860,8 @@ u002 {
 }
 
 #u003 { 
-	z-index: 5;
-	width: 150px;
-	min-height: 22px;
-	position: relative;
-	margin-right: -10000px;
-	left: 455px;
+
+	width: 200px;
 	font-size: 14px;
 	text-align: right;
 	font-family: roboto, sans-serif;
