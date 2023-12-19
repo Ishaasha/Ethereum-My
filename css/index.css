@@ -619,16 +619,15 @@ h3{
 
 #boxcenter{
   height:inherit;
-  padding: 10px 0;
+  padding: 15px 0;
   margin: auto;
   width: 50%;
   text-align: center;
   background-color: #FFFFFF;
+  overflow:hidden;	
 }
 
 #rcorner {
-
-	
 	width:70%;
 	padding:20px;
 	background-color: #EFEFEF;
