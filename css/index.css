@@ -536,7 +536,7 @@ h3{
   float:left;
   width: 50%;
   text-align: center;
-  margin:auto;
+  margin:10%;
   overflow:hidden;
  
 }
@@ -610,9 +610,10 @@ h3{
   transition: 400ms;
 }
 
-#divmargin {
+#box1 {
 	margin-bottom:50px;
 }
+
 #rcorner {
 
 	height:inherit;
