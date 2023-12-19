@@ -546,7 +546,7 @@ h3{
   float: left;
   width: 50%;
   text-align: center;
-
+  overflow:hidden;
 }
 
 .c3:hover img {
