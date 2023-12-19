@@ -534,7 +534,7 @@ h4{
   display: inline-block;
   float: left;
   width: 50%;
-  padding-left: 50px;
+  padding-left: 100px;
   text-align: center;
   transform: scale(1);
   transition: 400ms;
@@ -563,7 +563,7 @@ h4{
   display: inline-block;
   float: left;
   width: 50%;
-  padding-right: 50px;
+  padding-right: 100px;
   text-align: center;
   margin-bottom:100px;
 }
