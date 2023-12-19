@@ -833,26 +833,16 @@ background-color: #5b5b5b;
 }
 
 #u001 {
-	z-index: 13;
-	width: 150;
-	min-height: 22px;
-	position: relative;
-	margin-right: -10000px;
-	text-align:left;
+	width: 200px;
 	font-size: 14px;
-	text-align: center;
+	text-align: left;
 	font-family: roboto, sans-serif;
 	font-weight: 500;
 }
 
 #u002 {
 	
-	width: 150px;
-	min-height: 22px;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	left: 381px;
+	width: 200px;
 	font-size: 14px;
 	text-align: center;
 	font-family: roboto, sans-serif;
