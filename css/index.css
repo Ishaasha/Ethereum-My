@@ -726,7 +726,7 @@ h4{
   float: left;
   width: 25%;
   border-radius: 20px;
-  padding:60px 0;
+  padding:20px 0;
   color: #FFFFFF;
   margin-right:10%;
 }
@@ -736,7 +736,7 @@ h4{
   display: inline-block;
   float: left;
   width: 25%;
-  padding: 60px 0;
+  padding: 20px 0;
   border-radius: 20px;
   color: #FFFFFF;
   margin-right:10%;
@@ -746,7 +746,7 @@ h4{
   display: inline-block;
   float: left;
   width: 25%;
-  padding: 60px 0;
+  padding: 20px 0;
   border-radius: 20px;
   color: #FFFFFF;
   
@@ -833,7 +833,7 @@ background-color: #5b5b5b;
 }
 
 #u001 {
-	padding-right:80px;
+	padding-right:50px;
 	font-size: 14px;
 	text-align: left;
 	font-family: roboto, sans-serif;
@@ -842,7 +842,7 @@ background-color: #5b5b5b;
 
 #u002 {
 	
-	padding-right: 100px;
+	padding-right: 50px;
 	font-size: 14px;
 	text-align: center;
 	font-family: roboto, sans-serif;
