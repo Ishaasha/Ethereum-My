@@ -725,7 +725,6 @@ h4{
   display: inline-block;
   float: left;
   width: 33.33%;
-  text-align: center;
   border-radius: 20px;
   padding:60px 0;
   color: #FFFFFF;
@@ -736,7 +735,6 @@ h4{
   display: inline-block;
   float: left;
   width: 33.33%;
-  text-align: center;
   padding: 60px 0;
   border-radius: 20px;
   color: #FFFFFF;
@@ -746,7 +744,6 @@ h4{
   display: inline-block;
   float: left;
   width: 33.33%;
-  text-align: center;
   padding: 60px 0;
   border-radius: 20px;
   color: #FFFFFF;
