@@ -628,7 +628,7 @@ h3{
 
 #rcorner {
 
-	height:inherit;
+	
 	width:70%;
 	padding:20px;
 	background-color: #EFEFEF;
@@ -638,7 +638,7 @@ h3{
 }
 
 #bttmargn {
-	height:inherit;
+	
 	width: auto;
 	margin-bottom:100px;
 }
