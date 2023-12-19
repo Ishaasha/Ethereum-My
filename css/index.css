@@ -617,7 +617,7 @@ h3{
   transition: 400ms;
 }
 
-.boxcenter{
+#boxcenter{
   display: inline-block;
   height:inherit;
   padding: 10px 0;
