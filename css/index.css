@@ -721,6 +721,39 @@ h4{
   margin-bottom:100px;
 }
 
+.c14{
+  display: inline-block;
+  float: left;
+  width: 33.33%;
+  text-align: center;
+  border-radius: 20px;
+  padding:60px 0;
+  color: #FFFFFF;
+}
+
+
+.c15{
+  display: inline-block;
+  float: left;
+  width: 33.33%;
+  text-align: center;
+  padding: 60px 0;
+  border-radius: 20px;
+  color: #FFFFFF;
+}
+
+.c16{
+  display: inline-block;
+  float: left;
+  width: 33.33%;
+  text-align: center;
+  padding: 60px 0;
+  border-radius: 20px;
+  color: #FFFFFF;
+}
+
+
+
 #boxcenter{
   height:inherit;
   padding: 15px;
