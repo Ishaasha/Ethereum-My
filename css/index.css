@@ -852,6 +852,13 @@ background-color: #5b5b5b;
 	font-family: roboto, sans-serif;
 	font-weight: 300;
 }
+
+p { 
+	font-size: 14px;
+	text-align: right;
+	font-family: roboto, sans-serif;
+	font-weight: 100;
+}
 .verticalspacer
 {
 	margin-bottom: -15px;
